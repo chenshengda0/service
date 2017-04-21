@@ -1,0 +1,10 @@
+.
+├── python.log
+├── spider
+│   └── test.py
+├── spider.cmd
+├── spider.py
+├── test.cmd
+└── test.py
+
+1 directory, 6 files
